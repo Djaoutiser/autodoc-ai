@@ -98,7 +98,14 @@ Created with passion by Serine ✨
 
 ---
 
+# 🤖 Note
+
+AI tools were used to assist with documentation writing and project presentation.
+
+---
+
 # ⭐ Support
 
 If you like this project, consider giving it a star on GitHub!
+
 
